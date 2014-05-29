@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Still On"
+date:   2014-05-25 16:13:13
+categories: update
+---
+
+Is this thing still on?  The thing about old code is that it can stil run.
